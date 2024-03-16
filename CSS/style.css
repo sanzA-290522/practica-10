@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+    background-color: rgb(199, 247, 247);
+}
+nav{
+    background-color: black;
+}
+
+
+table.table thead.thead-dark th {
+        background-color: black;
+        color: white;
+    }
